@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokeverse/static/css/main.77f8ac72.css",
+    "main.js": "/pokeverse/static/js/main.5b69f79b.js",
+    "index.html": "/pokeverse/index.html",
+    "main.77f8ac72.css.map": "/pokeverse/static/css/main.77f8ac72.css.map",
+    "main.5b69f79b.js.map": "/pokeverse/static/js/main.5b69f79b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f8ac72.css",
+    "static/js/main.5b69f79b.js"
+  ]
+}
